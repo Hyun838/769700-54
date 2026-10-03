@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "B B",
+  "BBB",
+  "BBB"
+ ],
+ "key": {
+  "B": {
+   "type": "forge:ore_dict",
+   "ore": "ingotBronze"
+  }
+ },
+ "result": {
+  "item": "advancedtech:bronze_chestplate"
+ }
+}

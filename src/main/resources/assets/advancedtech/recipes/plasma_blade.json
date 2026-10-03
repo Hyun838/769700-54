@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "P",
+  "E",
+  "B"
+ ],
+ "key": {
+  "P": {
+   "item": "advancedtech:composite_plate"
+  },
+  "E": {
+   "item": "advancedtech:energy_cell"
+  },
+  "B": {
+   "type": "forge:ore_dict",
+   "ore": "ingotBronze"
+  }
+ },
+ "result": {
+  "item": "advancedtech:plasma_blade"
+ }
+}

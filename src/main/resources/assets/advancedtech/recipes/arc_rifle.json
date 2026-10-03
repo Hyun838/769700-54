@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PSE",
+  "CEP",
+  "  P"
+ ],
+ "key": {
+  "P": {
+   "item": "advancedtech:composite_plate"
+  },
+  "S": {
+   "type": "forge:ore_dict",
+   "ore": "plateSilver"
+  },
+  "E": {
+   "item": "advancedtech:energy_cell"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  }
+ },
+ "result": {
+  "item": "advancedtech:arc_rifle"
+ }
+}

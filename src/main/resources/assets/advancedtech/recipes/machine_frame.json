@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PBP",
+  "B B",
+  "PBP"
+ ],
+ "key": {
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateIron"
+  },
+  "B": {
+   "type": "forge:ore_dict",
+   "ore": "ingotBronze"
+  }
+ },
+ "result": {
+  "item": "advancedtech:machine_frame"
+ }
+}

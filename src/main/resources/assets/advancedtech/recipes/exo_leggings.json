@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PCP",
+  "P P"
+ ],
+ "key": {
+  "P": {
+   "item": "advancedtech:composite_plate"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  }
+ },
+ "result": {
+  "item": "advancedtech:exo_leggings"
+ }
+}

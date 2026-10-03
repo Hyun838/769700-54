@@ -1,0 +1,29 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PLP",
+  "CFC",
+  "PRP"
+ ],
+ "key": {
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateIron"
+  },
+  "L": {
+   "item": "minecraft:lava_bucket"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "F": {
+   "item": "advancedtech:machine_frame"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:geothermal_generator"
+ }
+}

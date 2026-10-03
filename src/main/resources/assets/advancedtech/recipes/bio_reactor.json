@@ -1,0 +1,29 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PBP",
+  "CFC",
+  "PRP"
+ ],
+ "key": {
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateIron"
+  },
+  "B": {
+   "item": "advancedtech:biomass"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "F": {
+   "item": "advancedtech:machine_frame"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:bio_reactor"
+ }
+}

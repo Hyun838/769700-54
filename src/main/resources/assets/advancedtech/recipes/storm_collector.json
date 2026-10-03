@@ -1,0 +1,33 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "SDS",
+  "CFC",
+  "GEG"
+ ],
+ "key": {
+  "S": {
+   "type": "forge:ore_dict",
+   "ore": "plateSilver"
+  },
+  "D": {
+   "item": "minecraft:diamond"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "F": {
+   "item": "advancedtech:machine_frame"
+  },
+  "G": {
+   "type": "forge:ore_dict",
+   "ore": "plateGold"
+  },
+  "E": {
+   "item": "advancedtech:energy_cell"
+  }
+ },
+ "result": {
+  "item": "advancedtech:storm_collector"
+ }
+}

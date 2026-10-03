@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  " E ",
+  "PCP",
+  "PRP"
+ ],
+ "key": {
+  "E": {
+   "item": "advancedtech:energy_cell"
+  },
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateBronze"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:ore_scanner"
+ }
+}

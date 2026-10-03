@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PCP",
+  "PRP",
+  "PCP"
+ ],
+ "key": {
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateTin"
+  },
+  "C": {
+   "type": "forge:ore_dict",
+   "ore": "ingotCopper"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:battery_box"
+ }
+}

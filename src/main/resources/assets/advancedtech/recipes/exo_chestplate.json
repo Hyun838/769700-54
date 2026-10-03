@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PCP",
+  "PEP",
+  "PPP"
+ ],
+ "key": {
+  "P": {
+   "item": "advancedtech:composite_plate"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "E": {
+   "item": "advancedtech:energy_cell"
+  }
+ },
+ "result": {
+  "item": "advancedtech:exo_chestplate"
+ }
+}

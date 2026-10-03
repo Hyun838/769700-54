@@ -1,0 +1,28 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "IAI",
+  "CFC",
+  "IRI"
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "A": {
+   "item": "advancedtech:air_filter"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "F": {
+   "item": "advancedtech:machine_frame"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:smog_reactor"
+ }
+}

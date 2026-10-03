@@ -1,0 +1,29 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "CFC",
+  "IRI"
+ ],
+ "key": {
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateIron"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "F": {
+   "item": "advancedtech:machine_frame"
+  },
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:wind_turbine"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PCP"
+ ],
+ "key": {
+  "P": {
+   "item": "advancedtech:composite_plate"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  }
+ },
+ "result": {
+  "item": "advancedtech:exo_helmet"
+ }
+}

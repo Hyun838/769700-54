@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "BB",
+  " S",
+  " S"
+ ],
+ "key": {
+  "B": {
+   "type": "forge:ore_dict",
+   "ore": "ingotBronze"
+  },
+  "S": {
+   "item": "minecraft:stick"
+  }
+ },
+ "result": {
+  "item": "advancedtech:bronze_hoe"
+ }
+}

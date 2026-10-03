@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "BP",
+  "PB"
+ ],
+ "key": {
+  "B": {
+   "type": "forge:ore_dict",
+   "ore": "plateBronze"
+  },
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateIron"
+  }
+ },
+ "result": {
+  "item": "advancedtech:composite_plate",
+  "count": 2
+ }
+}
