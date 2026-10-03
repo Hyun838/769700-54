@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "advancedtech:battery_box"
+  },
+  "facing=east": {
+   "model": "advancedtech:battery_box",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "advancedtech:battery_box",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "advancedtech:battery_box",
+   "y": 270
+  }
+ }
+}

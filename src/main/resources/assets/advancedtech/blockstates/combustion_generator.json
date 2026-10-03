@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "advancedtech:combustion_generator"
+  },
+  "facing=east": {
+   "model": "advancedtech:combustion_generator",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "advancedtech:combustion_generator",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "advancedtech:combustion_generator",
+   "y": 270
+  }
+ }
+}

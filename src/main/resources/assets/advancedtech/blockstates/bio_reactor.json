@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "advancedtech:bio_reactor"
+  },
+  "facing=east": {
+   "model": "advancedtech:bio_reactor",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "advancedtech:bio_reactor",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "advancedtech:bio_reactor",
+   "y": 270
+  }
+ }
+}

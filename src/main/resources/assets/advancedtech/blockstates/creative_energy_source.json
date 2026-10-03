@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "advancedtech:creative_energy_source"
+  },
+  "facing=east": {
+   "model": "advancedtech:creative_energy_source",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "advancedtech:creative_energy_source",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "advancedtech:creative_energy_source",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "advancedtech:compressor"
+  },
+  "facing=east": {
+   "model": "advancedtech:compressor",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "advancedtech:compressor",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "advancedtech:compressor",
+   "y": 270
+  }
+ }
+}

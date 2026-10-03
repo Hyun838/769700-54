@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "advancedtech:crusher"
+  },
+  "facing=east": {
+   "model": "advancedtech:crusher",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "advancedtech:crusher",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "advancedtech:crusher",
+   "y": 270
+  }
+ }
+}
